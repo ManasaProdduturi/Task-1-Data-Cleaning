@@ -15,7 +15,7 @@ Clean raw data by:
 
 # Tools Used
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib / Seaborn (for visuals)
@@ -66,7 +66,8 @@ Clean raw data by:
 
 ---
 
-#![Uploading after-cleaning-dataset.png…]()
+[titanic_dataset-cleaning.zip](https://github.com/user-attachments/files/20907670/titanic_dataset-cleaning.zip)
+
  Next Steps (Not Included Here)
 
 - Encode categorical features (`Sex`, `Embarked`)
